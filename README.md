@@ -50,10 +50,10 @@
 - المنتجات الإلكترونية تحقق أعلى نسبة مبيعات
 
 ## معاينة المشروع
-![الشاشة الرئيسية لـ Dashboard]([image/dashbord1.png](https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord1.png))
+![الشاشة الرئيسية لـ Dashboard](Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord1.png)
 *صورة 1: نظرة عامة على Dashboard ومؤشرات الأداء الرئيسية*
 
-![تفاصيل التحليل والرسوم البيانية]([image/dashbord2.png](https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord2.png))
+![تفاصيل التحليل والرسوم البيانية]((https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord2.png))
 *صورة 2: تفاصيل التحليل والرسوم البيانية وتوزيع العملاء*
 
 ## كيفية استخدام Dashboard
