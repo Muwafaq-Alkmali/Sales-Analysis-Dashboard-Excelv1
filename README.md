@@ -53,7 +53,7 @@
 ![الشاشة الرئيسية لـ Dashboard](https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord1.png)
 *صورة 1: نظرة عامة على Dashboard ومؤشرات الأداء الرئيسية*
 
-![تفاصيل التحليل والرسوم البيانية]((https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord2.png))
+![تفاصيل التحليل والرسوم البيانية](https://github.com/Muwafaq-Alkmali/Sales-Analysis-Dashboard-Excelv1/blob/main/salce%20DashBoard%20-%202Excel/image/dashbord2.png)
 *صورة 2: تفاصيل التحليل والرسوم البيانية وتوزيع العملاء*
 
 ## كيفية استخدام Dashboard
